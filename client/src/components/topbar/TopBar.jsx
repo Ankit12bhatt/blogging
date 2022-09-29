@@ -13,10 +13,10 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <i className="topIcon fab fa-facebook-square"></i>
-        <i className="topIcon fab fa-twitter-square"></i>
-        <i className="topIcon fab fa-pinterest-square"></i>
-        <i className="topIcon fab fa-instagram-square"></i>
+        <a href="https://github.com/Ankit12bhatt"> <i className="topIcon fab fa-github-square"> </i></a>
+        <a href="https://www.linkedin.com/in/ankit-bhatt-186228176/"><i className="topIcon fab fa-linkedin"></i></a>
+        <a href="https://www.hackerrank.com/ankitbhatt640"><i className="topIcon fab fa-hackerrank"></i> </a>
+        <a href="https://twitter.com/Ankitbhatt2409"><i className="topIcon fab fa-twitter-square"></i> </a>
       </div>
       <div className="topCenter">
         <ul className="topList">

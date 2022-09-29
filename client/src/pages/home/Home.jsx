@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Header from "../../components/header/Header";
 import Posts from "../../components/posts/Posts";
-import Sidebar from "../../components/sidebar/Sidebar";
+// import Sidebar from "../../components/sidebar/Sidebar";
 import "./home.css";
 import axios from "axios";
 import { useLocation } from "react-router";
@@ -20,9 +20,12 @@ export default function Home() {
   return (
     <>
       <Header />
+      &nbsp;
+      <span></span>
+      &nbsp;
       <div className="home">
         <Posts posts={posts} />
-        <Sidebar />
+        {/* <Sidebar /> */}
       </div>
     </>
   );

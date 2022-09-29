@@ -51,6 +51,7 @@ export default function SinglePost() {
         {post.photo && (
           <img src={PF + post.photo} alt="" className="singlePostImg" />
         )}
+        
         {updateMode ? (
           <input
             type="text"

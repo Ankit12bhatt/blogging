@@ -15,17 +15,10 @@ export default function Sidebar() {
   }, []);
   return (
     <div className="sidebar">
-      <div className="sidebarItem">
+      {/* <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img
-          src="https://i.pinimg.com/236x/1e/3f/58/1e3f587572a7a7b20bbf1828595a1786--holiday-party-themes-holiday-gift-guide.jpg"
-          alt=""
-        />
         <p>
-          Welcome to the Geeks Zone. 
-          We provide you quality of blogs in your domain.
-          Keep posting blog and keep community in track. 
-          Thank you!!! 
+          
         </p>
       </div>
       <div className="sidebarItem">
@@ -46,7 +39,7 @@ export default function Sidebar() {
           <i className="sidebarIcon fab fa-pinterest-square"></i>
           <i className="sidebarIcon fab fa-instagram-square"></i>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
