@@ -6,11 +6,11 @@ https://subtle-axolotl-db4aad.netlify.app
 ## prefectly working feature
  1> Register.\
  2> login.\
- 3> view blogs( both with login and without login)
- 4> write blogs
- 5> edit blog(only yours)
- 6> change password 
- 7> update profile image. 
+ 3> view blogs( both with login and without login).\
+ 4> write blogs.\
+ 5> edit blog(only yours).\
+ 6> change password .\
+ 7> update profile image. .\
 ## Available Scripts
 
 ### `npm start`
