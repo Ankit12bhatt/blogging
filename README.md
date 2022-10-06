@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 ## Link to check project
 https://subtle-axolotl-db4aad.netlify.app
-(few features might not work as it was totally made for local host).
+(few features might not work as it was made for local host ).
 
 ## prefectly working feature
- 1> Register
- 2> login
+ 1> Register.\
+ 2> login.\
  3> view blogs( both with login and without login)
  4> write blogs
  5> edit blog(only yours)
